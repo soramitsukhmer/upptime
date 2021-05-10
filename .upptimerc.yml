@@ -6,11 +6,11 @@ sites:
   - name: Fast Development
     url: https://web-fast-dev.sorakh.app/
   - name: Fast Integration
-    url: https://web-fast-int.sorakh.app/
+    url: https://web-fast-integration.sorakh.app/
   - name: NCS Development
     url: https://web-ncs-dev.sorakh.app/
   - name: NCS Integration
-    url: https://web-ncs-int.sorakh.app/
+    url: https://web-ncs-integration.sorakh.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
