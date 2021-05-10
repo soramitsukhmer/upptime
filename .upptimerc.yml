@@ -19,7 +19,7 @@ status-website:
   cname: upptime.soramitsukhmer.com
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/soramitsukhmer/upptime/master/assets/soramitsukhmer-upptime-icon.svg
-  name: Soramitsu Khmer Upptime
+  name: Upptime — Soramitsu Khmer
   theme: ocean
   navbar:
     - title: Status
