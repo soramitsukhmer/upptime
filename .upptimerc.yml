@@ -3,14 +3,20 @@ owner: soramitsukhmer # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
+  # Project Fast
   - name: Fast Development
     url: https://web-fast-dev.sorakh.app/
   - name: Fast Integration
     url: https://web-fast-integration.sorakh.app/
+  - name: Fast NBC
+    url: https://web-fast-nbc.sorakh.app/
+  # Project NCS
   - name: NCS Development
     url: https://web-ncs-dev.sorakh.app/
   - name: NCS Integration
     url: https://web-ncs-integration.sorakh.app/
+  - name: NCS NBC
+    url: https://web-ncs-nbc.sorakh.app/
 
 status-website:
   apiBaseUrl: https://api.github.com
