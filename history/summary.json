@@ -61,18 +61,20 @@
     "url": "https://web-ncs-dev.sorakh.app/",
     "icon": "https://favicons.githubusercontent.com/web-ncs-dev.sorakh.app",
     "slug": "ncs-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 674,
-    "timeWeek": 775,
-    "timeMonth": 759,
-    "timeYear": 759,
-    "dailyMinutesDown": {}
+    "time": 831,
+    "timeDay": 2191,
+    "timeWeek": 1142,
+    "timeMonth": 831,
+    "timeYear": 831,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "NCS Integration",
