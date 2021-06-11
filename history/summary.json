@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1083,
-    "timeWeek": 2100,
-    "timeMonth": 1209,
-    "timeYear": 1209,
+    "time": 1201,
+    "timeDay": 866,
+    "timeWeek": 2012,
+    "timeMonth": 1251,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/web-fast-integration.sorakh.app",
     "slug": "fast-integration",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.92%",
     "time": 794,
-    "timeDay": 826,
-    "timeWeek": 747,
-    "timeMonth": 794,
+    "timeDay": 782,
+    "timeWeek": 752,
+    "timeMonth": 793,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2021-05-20": 16,
-      "2021-05-10": 27
+      "2021-05-10": 23
     }
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 880,
-    "timeWeek": 742,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "time": 762,
+    "timeDay": 820,
+    "timeWeek": 766,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -62,16 +62,16 @@
     "icon": "https://favicons.githubusercontent.com/web-ncs-dev.sorakh.app",
     "slug": "ncs-development",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 829,
-    "timeDay": 856,
-    "timeWeek": 1079,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "uptimeYear": "99.75%",
+    "time": 828,
+    "timeDay": 795,
+    "timeWeek": 1095,
+    "timeMonth": 854,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2021-06-08": 114
     }
@@ -82,19 +82,18 @@
     "icon": "https://favicons.githubusercontent.com/web-ncs-integration.sorakh.app",
     "slug": "ncs-integration",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 775,
-    "timeDay": 796,
-    "timeWeek": 900,
-    "timeMonth": 775,
-    "timeYear": 775,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 774,
+    "timeDay": 758,
+    "timeWeek": 898,
+    "timeMonth": 763,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2021-05-28": 63,
-      "2021-05-10": 4
+      "2021-05-28": 63
     }
   },
   {
@@ -108,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 851,
-    "timeWeek": 715,
-    "timeMonth": 718,
-    "timeYear": 718,
+    "time": 719,
+    "timeDay": 742,
+    "timeWeek": 728,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   }
 ]
