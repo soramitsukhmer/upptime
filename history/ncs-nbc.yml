@@ -1,7 +1,7 @@
 url: https://web-ncs-nbc.sorakh.app/
-status: up
-code: 200
-responseTime: 971
-lastUpdated: 2021-10-08T04:57:00.673Z
+status: down
+code: 502
+responseTime: 4010
+lastUpdated: 2021-10-08T09:36:14.611Z
 startTime: Tue May 11 2021 11:05:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
