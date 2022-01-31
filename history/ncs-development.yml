@@ -1,7 +1,7 @@
 url: https://web-ncs-dev.sorakh.app/
-status: up
-code: 200
-responseTime: 908
-lastUpdated: 2022-01-30T23:00:54.179Z
+status: down
+code: 502
+responseTime: 3749
+lastUpdated: 2022-01-31T10:55:07.823Z
 startTime: Mon May 10 2021 03:58:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
