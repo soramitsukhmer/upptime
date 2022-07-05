@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.24%",
     "time": 1015,
-    "timeDay": 859,
-    "timeWeek": 867,
-    "timeMonth": 925,
+    "timeDay": 1084,
+    "timeWeek": 886,
+    "timeMonth": 932,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2022-06-21": 43,
@@ -30,8 +30,7 @@
       "2021-10-14": 39,
       "2021-10-08": 133,
       "2021-08-22": 212,
-      "2021-08-05": 157,
-      "2021-07-05": 179
+      "2021-08-05": 157
     }
   },
   {
@@ -40,16 +39,16 @@
     "icon": "https://favicons.githubusercontent.com/web-fast-integration.sorakh.app",
     "slug": "fast-integration",
     "status": "up",
-    "uptime": "79.74%",
+    "uptime": "79.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "76.79%",
+    "uptimeYear": "76.87%",
     "time": 1366,
-    "timeDay": 843,
-    "timeWeek": 905,
-    "timeMonth": 1167,
-    "timeYear": 1480,
+    "timeDay": 1103,
+    "timeWeek": 921,
+    "timeMonth": 1187,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2022-06-21": 25,
       "2022-05-05": 1060,
@@ -145,8 +144,7 @@
       "2021-08-07": 1440,
       "2021-08-06": 793,
       "2021-08-05": 156,
-      "2021-07-30": 19,
-      "2021-07-05": 180
+      "2021-07-30": 19
     }
   },
   {
@@ -155,18 +153,19 @@
     "icon": "https://favicons.githubusercontent.com/web-fast-nbc.sorakh.app",
     "slug": "fast-nbc",
     "status": "down",
-    "uptime": "88.41%",
+    "uptime": "88.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.78%",
+    "uptimeYear": "86.58%",
     "time": 846,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2022-07-04": 10,
+      "2022-07-05": 9,
+      "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
@@ -225,8 +224,7 @@
       "2021-10-14": 39,
       "2021-10-08": 132,
       "2021-08-22": 211,
-      "2021-08-05": 156,
-      "2021-07-05": 180
+      "2021-08-05": 156
     }
   },
   {
@@ -235,15 +233,15 @@
     "icon": "https://favicons.githubusercontent.com/web-ncs-dev.sorakh.app",
     "slug": "ncs-development",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.25%",
     "time": 973,
-    "timeDay": 798,
-    "timeWeek": 886,
-    "timeMonth": 914,
+    "timeDay": 992,
+    "timeWeek": 881,
+    "timeMonth": 919,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2022-06-21": 29,
@@ -272,8 +270,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 306,
       "2021-08-22": 211,
-      "2021-08-05": 155,
-      "2021-07-05": 180
+      "2021-08-05": 155
     }
   },
   {
@@ -282,18 +279,19 @@
     "icon": "https://favicons.githubusercontent.com/web-ncs-integration.sorakh.app",
     "slug": "ncs-integration",
     "status": "down",
-    "uptime": "63.68%",
+    "uptime": "63.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.31%",
+    "uptimeYear": "58.11%",
     "time": 818,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2022-07-04": 11,
+      "2022-07-05": 9,
+      "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
@@ -454,8 +452,7 @@
       "2021-10-14": 39,
       "2021-10-08": 131,
       "2021-08-22": 210,
-      "2021-08-05": 155,
-      "2021-07-05": 180
+      "2021-08-05": 155
     }
   },
   {
@@ -464,18 +461,19 @@
     "icon": "https://favicons.githubusercontent.com/web-ncs-nbc.sorakh.app",
     "slug": "ncs-nbc",
     "status": "down",
-    "uptime": "70.59%",
+    "uptime": "70.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.34%",
+    "uptimeYear": "66.15%",
     "time": 1425,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1543,
     "dailyMinutesDown": {
-      "2022-07-04": 11,
+      "2022-07-05": 9,
+      "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
@@ -608,8 +606,7 @@
       "2021-10-09": 1440,
       "2021-10-08": 995,
       "2021-08-22": 210,
-      "2021-08-05": 155,
-      "2021-07-05": 180
+      "2021-08-05": 155
     }
   }
 ]
